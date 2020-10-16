@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Conecta4
+comment1.params=
+comment1.target=void\ campoJuego()
+comment1.text=\r\n\ Imprime\ el\ tablero\ de\ juego\ y\ lo\ reimprime\ despu\u00E9s\ de\ cada\ jugada.\r\n
+comment2.params=
+comment2.target=void\ cambioJugador()
+comment2.text=\r\n\ Cambia\ el\ valor\ de\ la\ variable\ jugador\ para\ que\ un\ jugador\ no\ pueda\ hacer\ dos\ movimientos\ seguidos.\r\n
+comment3.params=
+comment3.target=void\ entradaColumna()
+comment3.text=\r\n\ Permite\ al\ usuario\ elegir\ la\ columna\ en\ la\ que\ quiere\ colocar\ la\ ficha.\ \r\n\ Le\ impide\ al\ usuario\ colocar\ una\ ficha\ en\ una\ columna\ inexistente\ o\ llena.\r\n
+comment4.params=
+comment4.target=void\ movimiento()
+comment4.text=\r\n\ Coloca\ la\ ficha\ del\ jugador.\r\n
+comment5.params=
+comment5.target=void\ condicionVictoria()
+comment5.text=\r\n\ Detecta\ la\ condici\u00F3n\ de\ victoria\ para\ los\ 3\ casos\ ()diagonal,\ horizontal\ y\ vertical)\r\n\ De\ no\ detectar\ alguno\ de\ esos\ tres\ casos,\ declara\ un\ empate.\r\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment6.text=\r\n\ Es\ el\ menu\ que\ le\ permite\ al\ usuario\ jugar.\r\n\ Le\ permite\ realizar\ otra\ partida\ o\ terminar\ el\ juego\ del\ todo.\r\n
+numComments=7
